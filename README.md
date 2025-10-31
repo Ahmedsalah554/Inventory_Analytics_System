@@ -34,18 +34,19 @@ git clone https://github.com/Ahmedsalah554/Inventory_Analytics_System.git
 cd Inventory_Analytics_System
 ```
 
-2. Install dependencies (optional if using Docker)
+## 2. Install dependencies (optional if using Docker)
 pip install -r requirements.txt
 
-3. Run with Docker
+## 3. Run with Docker
 docker-compose up --build
 
-4. Access the system
+## 4. Access the system
 Airflow UI: http://localhost:8080
 Customize tasks in airflow/dags as needed.
 
-🗂 Project Structure
+## 🗂 Project Structure
 
+```
 Inventory_Analytics_System/
 │
 ├── api/               # API endpoints for managing data
@@ -55,4 +56,6 @@ Inventory_Analytics_System/
 ├── docker-compose.yml # Docker Compose configuration
 ├── Dockerfile         # Docker image configuration
 └── requirements.txt   # Python dependencies
+```
+
 
