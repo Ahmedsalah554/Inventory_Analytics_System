@@ -32,6 +32,7 @@
 ```bash
 git clone https://github.com/Ahmedsalah554/Inventory_Analytics_System.git
 cd Inventory_Analytics_System
+```
 
 2. Install dependencies (optional if using Docker)
 pip install -r requirements.txt
