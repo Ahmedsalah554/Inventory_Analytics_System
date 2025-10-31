@@ -1,0 +1,5 @@
+id,product_name,quantity,warehouse
+17,Laptop,10,Warehouse A
+18,Mouse,50,Warehouse B
+19,Keyboard,30,Warehouse A
+20,Monitor,15,Warehouse B
